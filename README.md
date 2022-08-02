@@ -31,10 +31,12 @@ The differences between summary result API and detailed result API are parameter
 
 ----------------------------------------------
 
-Graphs data are nothing but the only data need to be displayed on the graph. Backend is already processing all the data and formatting it in the response so to it was easier to do in backend and save processing time on client side. Java enums are used to store the measures for which data needs to be displayed on graphs.
+Graphs data are nothing but the only data that needs to be displayed on the graph. Backend is already processing all the data and formatting it in the response so to it was easier to do in backend and save processing time on client side. Java enums are used to store the measures for which data needs to be displayed on graphs.
 
 ----------------------------------------------
+Application can be tested from UI application present on link - https://github.com/Ashi-chauhan/IR_EVAL_UI.git
 
+-----------------------------------------
 API Details :
 
 1. summaryresult 
